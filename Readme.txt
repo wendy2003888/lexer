@@ -6,4 +6,3 @@ cc -o <name> lex.yy.c -ll
 ./name< filename
 //name is the name of .exe u nominate just before, filename is the name of
 file that u want 2 trans
-

@@ -1,0 +1,68 @@
+Line:1	<KEYWORD, const >
+Line:1	<KEYWORD, int >
+Line:1	<ID, inf >
+Line:1	<arithmetic operator, = >
+Line:1	<number, 99999 >
+Line:1	<separate operator, ; >
+Line:2	<KEYWORD, int >
+Line:2	<KEYWORD, main >
+Line:2	<separate operator, ( >
+Line:2	<separate operator, ) >
+Line:3	<separate operator, { >
+Line:4	<KEYWORD, int >
+Line:4	<ID, a >
+Line:4	<separate operator, , >
+Line:4	<ID, b >
+Line:4	<separate operator, ; >
+Line:5	<KEYWORD, if >
+Line:5	<separate operator, ( >
+Line:5	<ID, a >
+Line:5	<compare operator, != >
+Line:5	<ID, b >
+Line:5	<relation operator, || >
+Line:5	<ID, b >
+Line:5	<compare operator, == >
+Line:5	<number, 0 >
+Line:5	<separate operator, ) >
+Line:6	<separate operator, { >
+Line:7	<ID, a >
+Line:7	<arithmetic operator, = >
+Line:7	<ID, a >
+Line:7	<arithmetic operator, - >
+Line:7	<ID, b >
+Line:7	<separate operator, ; >
+Line:8	<separate operator, } >
+Line:9	<KEYWORD, if >
+Line:9	<separate operator, ( >
+Line:9	<ID, b >
+Line:9	<compare operator, >= >
+Line:9	<ID, a >
+Line:9	<relation operator, && >
+Line:9	<ID, a >
+Line:9	<compare operator, < >
+Line:9	<number, 0 >
+Line:9	<separate operator, ) >
+Line:10	<ID, a >
+Line:10	<arithmetic operator, = >
+Line:10	<ID, b >
+Line:10	<arithmetic operator, = >
+Line:10	<number, 0 >
+Line:10	<separate operator, ; >
+Line:11	<KEYWORD, while >
+Line:11	<separate operator, ( >
+Line:11	<ID, a >
+Line:11	<compare operator, < >
+Line:11	<number, 0 >
+Line:11	<separate operator, ) >
+Line:12	<separate operator, { >
+Line:13	<ID, a >
+Line:13	<arithmetic operator, = >
+Line:13	<ID, a >
+Line:13	<arithmetic operator, + >
+Line:13	<number, 2 >
+Line:13	<separate operator, ; >
+Line:14	<separate operator, } >
+Line:15	<KEYWORD, return >
+Line:15	<number, 0 >
+Line:15	<separate operator, ; >
+Line:16	<separate operator, } >
